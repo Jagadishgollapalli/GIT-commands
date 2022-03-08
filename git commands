@@ -4,7 +4,7 @@ git remote.......
 git commit "my-first-commit"
 git push -u  origin master
 
-rm .git    - to remove already initialized git repository
+rm .git    - to remove already reinitialized git repository instead of rm -rf .git
 
 if this is the error $ git push -u origin master
 remote: Repository not found.
