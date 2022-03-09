@@ -10,7 +10,7 @@ if this is the error $ git push -u origin master
 remote: Repository not found.
 fatal: repository 'https://github.com/kiotie32/arbit-text.git/' not found
 
-control panel - credential manager - windows credential - remove all git related credentials and then git push
+control panel - userAccounts- credential manager - windows credential - remove all git related credentials and then git push
 
 
 
