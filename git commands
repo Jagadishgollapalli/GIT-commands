@@ -2,7 +2,11 @@ git init
 git add .
 git commit "my-first-commit" 
 git remote.......
-git push -u  origin master
+git push -u  origin master 
+
+//not git push -u  origin main 
+(if error is error: src refspec main does not match any          
+error: failed to push some refs to 'https://github.com/Jagadishgollapalli/react-hooks-functionality-.git')
 
 rm .git    - to remove already reinitialized git repository instead of rm -rf .git
 
