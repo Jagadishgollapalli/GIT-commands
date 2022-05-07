@@ -17,6 +17,15 @@ fatal: repository 'https://github.com/kiotie32/arbit-text.git/' not found
 control panel - userAccounts- credential manager - windows credential - remove all git related credentials and then git push
 
 
+when starting nodemon gave trouble:
+step 1: -Press the windows-button on your keyboard.
+step 2: -Type ‘PowerShell’
+step 3: -Right-click Windows PowerShell
+step 4: -Click Run as Administrator
+step 5: -Run the following command and confirm with ‘Y’
+Try this. 
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
 
 
