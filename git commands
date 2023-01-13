@@ -8,7 +8,7 @@ git push -u  origin master
 (if error is error: src refspec main does not match any          
 error: failed to push some refs to 'https://github.com/Jagadishgollapalli/react-hooks-functionality-.git')
 
-rm .git    - to remove already reinitialized git repository instead of rm -rf .git
+rm .git    - to remove already reinitialized git repository instead of rm -rf .git  //do not use this
 
 if this is the error $ git push -u origin master
 remote: Repository not found.
