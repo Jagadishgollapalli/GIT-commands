@@ -39,3 +39,12 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
       setCountries(response.data);
     });
   }, []);
+  
+  
+  //to check wheather it is  a git project or not
+  1. git status
+  2. git add
+  3. .git ignore
+  4. git add filename(file to be commited)
+  5. git status(for checking)
+  6. git commit -m "my_first_change"
