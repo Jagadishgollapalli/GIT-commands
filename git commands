@@ -27,7 +27,7 @@ Try this.
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
-
+git reset --soft HEAD~1  //---> Revert last latest commit
 
 
 
